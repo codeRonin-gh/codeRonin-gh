@@ -8,7 +8,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a passionate **Front-End Web Developer** currently learning through the **ALX Software Engineering Program**. I started my journey in tech to bring my creative ideas to life—because waiting on someone else to realize your vision limits the power of innovation. As I dove into self-learning and code, I realized just how much creative minds can unlock when given the right tools and platforms.
+I'm a passionate **Front-End Web Developer**, **CyberSecurity** , **Cloud-Computing**. I started my journey in tech to bring my creative ideas to life—because waiting on someone else to realize your vision limits the power of innovation. As I dive into self-learning and code, I realized just how much creative minds can unlock when given the right tools and platforms.
 
 > "I believe coding should be accessible, intuitive, and empowering for creators from all walks of life."
 
